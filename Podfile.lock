@@ -13,7 +13,7 @@ DEPENDENCIES:
   - TrezorCrypto (~> 0.0.9)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - BigInt
     - SipHash
     - SwiftLint
@@ -29,4 +29,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: ab36b3012ae20ec550e99300a22b04542e01fc9b
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.9.3
